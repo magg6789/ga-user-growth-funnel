@@ -21,12 +21,12 @@ Analysis of 12 months of real web analytics data from the Google Merchandise Sto
 
 ## Visualizations
 
-![KPI Dashboard](images/fig1_kpi_dashboard.png)
-![Monthly Growth](images/fig2_monthly_growth.png)
-![Channel Analysis](images/fig3_channel_analysis.png)
-![Device Analysis](images/fig4_device_analysis.png)
-![Conversion Funnel](images/fig5_conversion_funnel.png)
-![A/B Test Results](images/fig6_ab_test.png)
+![KPI Dashboard]
+![Monthly Growth]
+![Channel Analysis]
+![Device Analysis]
+![Conversion Funnel]
+![A/B Test Results]
 
 ## Repo Structure
 
@@ -69,4 +69,4 @@ Save as `ga_sessions.csv` in the project root, then run the notebook.
 
 ## Dataset
 
-Google Analytics Sample dataset via BigQuery Public Data. Contains obfuscated session-level data from the Google Merchandise Store.
+Google Analytics Sample dataset via BigQuery Public Data. Contains session-level data from the Google Merchandise Store.
