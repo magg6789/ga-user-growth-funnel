@@ -21,12 +21,12 @@ Analysis of 12 months of real web analytics data from the Google Merchandise Sto
 
 ## Visualizations
 
-![KPI Dashboard]
-![Monthly Growth]
-![Channel Analysis]
-![Device Analysis]
-![Conversion Funnel]
-![A/B Test Results]
+KPI Dashboard
+Monthly Growth
+Channel Analysis
+Device Analysis
+Conversion Funnel
+A/B Test Results
 
 ## Repo Structure
 
@@ -70,3 +70,6 @@ Save as `ga_sessions.csv` in the project root, then run the notebook.
 ## Dataset
 
 Google Analytics Sample dataset via BigQuery Public Data. Contains session-level data from the Google Merchandise Store.
+
+
+## Looker Dashboard (work in progress)
