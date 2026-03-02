@@ -21,12 +21,7 @@ Analysis of 12 months of real web analytics data from the Google Merchandise Sto
 
 ## Visualizations
 
-KPI Dashboard
-Monthly Growth
-Channel Analysis
-Device Analysis
-Conversion Funnel
-A/B Test Results
+KPI Dashboard, Monthly Growth, Channel Analysis, Device Analysis, Conversion Funnel, and A/B Test Results
 
 ## Repo Structure
 
