@@ -3,6 +3,7 @@
 **Tools:** Python, SQL (BigQuery), Pandas, Matplotlib, Seaborn, SciPy  
 **Dataset:** [Google Analytics Sample](https://console.cloud.google.com/marketplace/details/obfuscated-ga360-data/obfuscated-ga360-data) — BigQuery Public Data  
 **Portfolio:** [miriamgarcia.org](https://miriamgarcia.org)
+
 **Looker Dashboard:** [Google Analytics: User Growth & Funnel Analysis]([https://miriamgarcia.org](https://lookerstudio.google.com/reporting/42aaf0c8-a0f5-44f3-9314-90abad50c146))
 
 ---
